@@ -21,7 +21,7 @@ Team members: [Fan Yang](http://people.tamu.edu/~nacoyang/), [Mengnan Du](https:
 
   XGNN: Towards Model-Level Explanations of Graph Neural Networks 
   
-  The 26th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2020 [[code link]](https://github.com/divelab/dig/dig/xgnn)
+  The 26th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2020 [[code link]](https://github.com/divelab/DIG/tree/main/dig/xgraph/XGNN)
 
 - Hao Yuan, Yongjun Chen, Xia Hu, and Shuiwang Ji
 
