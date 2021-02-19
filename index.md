@@ -27,10 +27,10 @@ Team members: [Fan Yang](http://people.tamu.edu/~nacoyang/), [Mengnan Du](https:
 
   Interpreting Deep Models for Text Analysis via Optimization and Regularization Methods
 
-  The 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019 [[code link]](https://github.com/divelab/dig/dig/xgnn)
+  The 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019 [[code link]](https://github.com/Nate1874/text_vis)
 
 - Hao Yuan, Lei Cai, Xia Hu, Jie Wang, and Shuiwang Ji    
 
   Interpreting Image Classifiers by Generating Discrete Masks 
 
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020 [[code link]](https://github.com/divelab/dig/dig/xgnn)
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020 [[code link]](https://github.com/Nate1874/image_explain)
