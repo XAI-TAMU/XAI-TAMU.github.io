@@ -7,7 +7,7 @@ PI: [Dr. Hu Xia](https://people.engr.tamu.edu/xiahu/index.html)
 
 Co-PIs: [Dr. Shuiwang Ji](http://people.tamu.edu/~sji/), [Dr. Eric Ragan](https://www.cise.ufl.edu/~eragan/)
 
-Team members: Fan Yang, Mengnan Du, Yi Liu, Hao Yuan, Sina Mohseni, to be added  
+Team members: [Fan Yang](http://people.tamu.edu/~nacoyang/), [Mengnan Du](https://mengnandu.com/), [Yi Liu](http://people.tamu.edu/~yiliu/), [Hao Yuan](https://sites.google.com/site/hyuanustc), [Sina Mohseni](http://people.tamu.edu/~sina.mohseni/), to be added  
 
 # Project outcomes
 
