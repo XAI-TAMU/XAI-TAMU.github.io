@@ -23,6 +23,12 @@ Team members: [Fan Yang](http://people.tamu.edu/~nacoyang/), [Mengnan Du](https:
   Quantitative Evaluation of Machine Learning Explanations: A Human-Grounded Benchmark
   
   *ACM International Conference on Intelligent User Interfaces (ACM IUI), 2021* 
+  
+- **Framework for XAI Design and Evaluation** [[resource link]](https://github.com/SinaMohseni/Awesome-XAI-Evaluation)
+
+  A Multidisciplinary Survey and Framework for Design and Evaluation of Explainable AI Systems
+  
+  *ACM Transactions on Interactive Intelligent Systems, 2020* 
 
 ## Algorithms
 
