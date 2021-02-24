@@ -16,7 +16,7 @@ Team members: [Fan Yang](http://people.tamu.edu/~nacoyang/), [Mengnan Du](https:
 
 - **XDeep** [[code link]](https://github.com/datamllab/xdeep)
 
-## HCI Evaluation Benchmark
+## HCI Evaluation Benchmarks 
 
 - **Human-Grounded Explanation Benchmark** [[resource link]](https://github.com/SinaMohseni/ML-Interpretability-Evaluation-Benchmark)
 
@@ -32,16 +32,26 @@ Team members: [Fan Yang](http://people.tamu.edu/~nacoyang/), [Mengnan Du](https:
 
 ## Algorithms
 
-- **XGNN: Towards Model-Level Explanations of Graph Neural Networks** [[code link]](https://github.com/divelab/DIG/tree/main/dig/xgraph/XGNN) 
+- **Towards Explanation of DNN-based Prediction with Guided Feature Inversion** [[code link]](https://github.com/mndu/guided-feature-inversion) 
 
-  *The 26th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2020* 
+  *The 24rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2018* 
+
+- **On Attribution of Recurrent Neural Network Predictions via Additive Decomposition** [[code link]](https://github.com/mndu/REAT) 
+
+  *The Web Conference (WWW), 2019* 
   
-
 - **Interpreting Deep Models for Text Analysis via Optimization and Regularization Methods** [[code link]](https://github.com/Nate1874/text_vis) 
 
   *The 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019* 
 
+- **XGNN: Towards Model-Level Explanations of Graph Neural Networks** [[code link]](https://github.com/divelab/DIG/tree/main/dig/xgraph/XGNN) 
+
+  *The 26th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2020* 
 
 - **Interpreting Image Classifiers by Generating Discrete Masks** [[code link]](https://github.com/Nate1874/image_explain) 
 
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020 
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020*
+  
+- **Differentiated Explanation of Deep Networks with Skewed Distributions** [[code link]](https://github.com/fuweijie/DRE) 
+
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021*
