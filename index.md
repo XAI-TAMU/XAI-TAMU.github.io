@@ -16,6 +16,12 @@ Team members: [Fan Yang](http://people.tamu.edu/~nacoyang/), [Mengnan Du](https:
 
 - **XDeep** [[code link]](https://github.com/datamllab/xdeep)
 
+## HCI Evaluation Benchmark
+
+- **Human-Grounded Explanation Benchmark** [[resource link]](https://github.com/SinaMohseni/ML-Interpretability-Evaluation-Benchmark)
+  Quantitative Evaluation of Machine Learning Explanations: A Human-Grounded Benchmark
+  *ACM International Conference on Intelligent User Interfaces (ACM IUI), 2021* 
+
 ## Algorithms
 
 - **XGNN: Towards Model-Level Explanations of Graph Neural Networks** [[code link]](https://github.com/divelab/DIG/tree/main/dig/xgraph/XGNN) 
