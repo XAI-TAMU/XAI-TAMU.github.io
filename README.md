@@ -1,5 +1,3 @@
-# DARPA XAI Program @ TAMU
-
-## Potential Toolkit Contributions --
+# DARPA XAI Program Toolkit Contributions @ TAMU
 
 Page URL: https://xai-tamu.github.io/ 
