@@ -14,23 +14,20 @@ Team members: [Fan Yang](http://people.tamu.edu/~nacoyang/), [Mengnan Du](https:
 
 ## Open-Source Library
 
-- to be added [[code link]]()
+- **XDeep** [[code link]](https://github.com/datamllab/xdeep)
 
 ## Algorithms
 
-- **XGNN: Towards Model-Level Explanations of Graph Neural Networks** [[code link]](https://github.com/divelab/DIG/tree/main/dig/xgraph/XGNN)
+- **XGNN: Towards Model-Level Explanations of Graph Neural Networks** [[code link]](https://github.com/divelab/DIG/tree/main/dig/xgraph/XGNN) 
 
-  *The 26th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2020*
+  *The 26th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2020* 
   
 
-- Hao Yuan, Yongjun Chen, Xia Hu, and Shuiwang Ji
+- **Interpreting Deep Models for Text Analysis via Optimization and Regularization Methods** [[code link]](https://github.com/Nate1874/text_vis) 
 
-  Interpreting Deep Models for Text Analysis via Optimization and Regularization Methods
+  *The 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019* 
 
-  The 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019 [[code link]](https://github.com/Nate1874/text_vis)
 
-- Hao Yuan, Lei Cai, Xia Hu, Jie Wang, and Shuiwang Ji    
+- **Interpreting Image Classifiers by Generating Discrete Masks** [[code link]](https://github.com/Nate1874/image_explain) 
 
-  Interpreting Image Classifiers by Generating Discrete Masks 
-
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020 [[code link]](https://github.com/Nate1874/image_explain)
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020 
